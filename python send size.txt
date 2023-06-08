@@ -1,4 +1,0 @@
-# the name of file we want to send, make sure it exists
-filename = "data.csv"
-# get the file size
-filesize = os.path.getsize(filename)
